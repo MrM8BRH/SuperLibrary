@@ -1,3 +1,4 @@
+## 📚 SuperLibrary
 <p align="center">اللَّهُمَّ صَلِّ علَى مُحَمَّدٍ وعلَى آلِ مُحَمَّدٍ، كما صَلَّيْتَ علَى إبْرَاهِيمَ وعلَى آلِ إبْرَاهِيمَ؛ إنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ علَى مُحَمَّدٍ وعلَى آلِ مُحَمَّدٍ، كما بَارَكْتَ علَى إبْرَاهِيمَ وعلَى آلِ إبْرَاهِيمَ؛ إنَّكَ حَمِيدٌ مَجِيدٌ.</p>
 <div id="header" align="center">
   
@@ -17,8 +18,6 @@
   
 </div>
 
-## 📚 SuperLibrary
-
 ## ⚠️ Disclaimer & Legal Notice
 
 This repository is for **educational purposes only**.
@@ -34,75 +33,5 @@ This repository is for **educational purposes only**.
 **Remember: Knowledge is power, but it comes with responsibility. Use it wisely and ethically.**
 
 ## Library content 🧾
-```
-┌───0 [ Miscellaneous ]
-│   ┌───Cryptography
-│   ├───Cybersecurity
-│   ├───ICS & SCADA
-│   ├───Notes + Exam Guide Q&A
-│   ├───Penetration Testing & Red Teaming
-│   └───Pictures
-├───1 [ Network Security ]
-│   ┌───Cheat Sheets
-│   ├───Firewall & WAF
-│   ├───SS7
-│   └───Wireshark & Nmap
-├───2 [ Web Security ]
-│   ├───elearnsecurity WAPTx
-│   └───Lists
-├───3 [ RE - MA ]
-│   ├───AMD x86-64 Architecture
-│   ├───eLearnSecurity - Malware Analysis Professional
-│   └───Reports
-├───4 [ DFIR - SOC ]
-│   ├───Compliance
-│   ├───DDoS
-│   ├───Digital Forensics
-│   │   └───Computer Hacking Forensic Investigator CHFIv9
-│   │       └───Labs
-│   ├───DNS
-│   ├───Email
-│   ├───Incident Response
-│   ├───IoT
-│   ├───MITRE
-│   ├───OSINT & CTI
-│   ├───Security Operation Center
-│   ├───Splunk
-│   └───Threat Hunting
-├───5 [ DevOps - Cloud ]
-├───6 [ Android && IOS ]
-├───7 [ Windows & AD ]
-├───8 [ Linux ]
-│   └───101 Hacks
-├───9 [ Programming ]
-├───10 [ Interview Questions ]
-├───11 [ Cheat-Sheets ]
-│   ├───Quick Reference Guide
-│   └───Team Field Manual
-├───12 [ Physical Penetration Testing ]
-│   └───Car Hacking_Security
-├───13 [ Social Engineering ]
-├───14 [ Hacker's Handbook Series ]
-├───15 [ Tribe of Hackers ]
-├───16 [ DarkWeb ]
-├───17 [ (ISC)² ]
-├───18 [ SANS ]
-│   └───Cheatsheets
-├───19 [ Offensive-Security ]
-├───20 [ Cisco ]
-│   ├───CCNA
-│   ├───CCNA Security
-│   ├───CyberOps Associate
-│   ├───Labs
-│   └───Network Security 2021
-├───21 [ CompTIA ]
-│   ├───Network+
-│   └───Security+
-├───22 [ EC-Council ]
-│   └───CEHv10
-│       └───Slides
-├───23 [ eLearnSecurity ]
-└───24 [ Arabic ]
-defcon torrent.zip
-Disclaimer.txt
-```
+- 📁 [Books](https://github.com/MrM8BRH/SuperLibrary/tree/master/Books)
+- 📁 [Courses](https://github.com/MrM8BRH/SuperLibrary/tree/master/Courses)
