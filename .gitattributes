@@ -1,0 +1,2 @@
+Books/** filter=lfs diff=lfs merge=lfs -text
+Courses/** filter=lfs diff=lfs merge=lfs -text
